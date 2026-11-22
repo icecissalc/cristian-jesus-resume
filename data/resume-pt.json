@@ -1,0 +1,106 @@
+{
+  "name": "Cristian Jesus",
+  "headline": "Engenheiro de Software Full-Stack Sênior",
+  "tagline": "Java 21 · Spring Boot · Angular · Azure · Tecnologia Financeira",
+  "location": "São Paulo, Brasil · 100% remoto",
+  "availability": "Aberto a oportunidades 100% remotas",
+  "summary": "Engenheiro de software com mais de 10 anos de experiência em desenvolvimento e trajetória focada em Java desde 2015. Experiência com aplicações corporativas, sistemas back-office, integrações via APIs, bancos de dados relacionais e NoSQL, mensageria, containers e ambientes em nuvem. Atuação full-stack com Angular, além do desenvolvimento backend com Java e Spring Boot. Utiliza ferramentas de desenvolvimento assistido por IA, incluindo Claude e GitHub Copilot, para apoiar a produtividade e o refinamento de prompts.",
+  "skills": {
+    "Backend": [
+      "Java (8 e 21)",
+      "Spring Boot",
+      "APIs REST",
+      "Node.js"
+    ],
+    "Frontend": [
+      "Angular",
+      "React (alguma experiência)",
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS"
+    ],
+    "Dados e Mensageria": [
+      "SQL Server",
+      "Oracle",
+      "MongoDB",
+      "Redis",
+      "Artemis",
+      "ActiveMQ Classic"
+    ],
+    "Cloud e Entrega": [
+      "Azure",
+      "AWS",
+      "Google Cloud Platform",
+      "Docker",
+      "Kubernetes",
+      "Jenkins"
+    ],
+    "Engenharia assistida por IA": [
+      "Claude",
+      "GitHub Copilot",
+      "Refinamento de prompts"
+    ]
+  },
+  "experience": [
+    {
+      "company": "Evertec (anteriormente Sinqia)",
+      "role": "Analista de Sistemas Sênior",
+      "dates": "Out 2022 – Atual",
+      "location": "São Paulo, Brasil · Remoto",
+      "description": "Atuação em sistema back-office com integrações via API com outros sistemas financeiros. Os projetos atuais utilizam Java 21 e Spring Boot para APIs e aplicações. Contexto adicional e resultados mensuráveis a incluir."
+    },
+    {
+      "company": "Riocard Mais",
+      "role": "Analista de Desenvolvimento PI",
+      "dates": "Out 2020 – Out 2022",
+      "location": "Brasil",
+      "description": "Experiência profissional em desenvolvimento de software. Adicionar contexto dos projetos, tecnologias e resultados mensuráveis."
+    },
+    {
+      "company": "MJV Technology & Innovation",
+      "role": "Analista de Sistemas",
+      "dates": "Set 2018 – Out 2020",
+      "location": "Brasil",
+      "description": "Análise de sistemas e entrega de software. Adicionar contexto dos projetos, tecnologias e resultados mensuráveis."
+    },
+    {
+      "company": "Senior Solution",
+      "role": "Desenvolvedor Java",
+      "dates": "Mai 2016 – Set 2018",
+      "location": "Rio de Janeiro, Brasil",
+      "description": "Experiência com desenvolvimento Java. Adicionar contexto dos projetos, frameworks, responsabilidades e resultados mensuráveis."
+    },
+    {
+      "company": "Tribunal Marítimo",
+      "role": "Auxiliar de Suporte Técnico",
+      "dates": "Out 2012 – Out 2014",
+      "location": "Brasil",
+      "description": "Atividades de suporte técnico e suporte de software/TI."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Centro Universitário IBMR",
+      "qualification": "MBA em Tecnologia da Informação – Defesa Cibernética nas Organizações",
+      "dates": "2020 – 2021"
+    },
+    {
+      "institution": "Centro Universitário UniCarioca",
+      "qualification": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+      "dates": "2011 – 2014"
+    }
+  ],
+  "contact": {
+    "linkedin": "https://www.linkedin.com/in/cristian-jesus-47531421/",
+    "github": "https://github.com/icecissalc",
+    "email": "[ADD YOUR PROFESSIONAL EMAIL]"
+  },
+  "placeholders": [
+    "Adicionar endereço de e-mail profissional.",
+    "Confirmar como descrever o nível de inglês.",
+    "Adicionar resultados concretos dos projetos, escala, melhorias de desempenho ou entregas.",
+    "Adicionar ferramentas e práticas de testes (por exemplo, JUnit, Mockito ou testes de integração), somente se aplicável.",
+    "Adicionar certificações, se houver."
+  ]
+}

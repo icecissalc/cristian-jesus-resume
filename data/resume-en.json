@@ -1,0 +1,106 @@
+{
+  "name": "Cristian Jesus",
+  "headline": "Senior Full-Stack Software Engineer",
+  "tagline": "Java 21 · Spring Boot · Angular · Azure · Financial Technology",
+  "location": "São Paulo, Brazil · 100% remote",
+  "availability": "Open to fully remote opportunities",
+  "summary": "Software engineer with 10+ years of experience in software development and a Java-focused background dating back to 2015. Experienced in enterprise applications, back-office systems, API integrations, relational and NoSQL databases, messaging, containers and cloud environments. Full-stack experience with Angular alongside backend development using Java and Spring Boot. Uses AI-assisted development tools, including Claude and GitHub Copilot, to support productivity and prompt refinement.",
+  "skills": {
+    "Backend": [
+      "Java (8 and 21)",
+      "Spring Boot",
+      "REST APIs",
+      "Node.js"
+    ],
+    "Frontend": [
+      "Angular",
+      "React (some experience)",
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS"
+    ],
+    "Data & Messaging": [
+      "SQL Server",
+      "Oracle",
+      "MongoDB",
+      "Redis",
+      "Artemis",
+      "ActiveMQ Classic"
+    ],
+    "Cloud & Delivery": [
+      "Azure",
+      "AWS",
+      "Google Cloud Platform",
+      "Docker",
+      "Kubernetes",
+      "Jenkins"
+    ],
+    "AI-assisted engineering": [
+      "Claude",
+      "GitHub Copilot",
+      "Prompt refinement"
+    ]
+  },
+  "experience": [
+    {
+      "company": "Evertec (formerly Sinqia)",
+      "role": "Senior Systems Analyst",
+      "dates": "Oct 2022 – Present",
+      "location": "São Paulo, Brazil · Remote",
+      "description": "Works on a back-office system with API integrations to other financial systems. Current projects use Java 21, with Spring Boot for APIs and applications. Further responsibilities and measurable outcomes to be added."
+    },
+    {
+      "company": "Riocard Mais",
+      "role": "PI Development Analyst",
+      "dates": "Oct 2020 – Oct 2022",
+      "location": "Brazil",
+      "description": "Professional experience in software development. Add project context, technology stack and measurable achievements."
+    },
+    {
+      "company": "MJV Technology & Innovation",
+      "role": "Systems Analyst",
+      "dates": "Sep 2018 – Oct 2020",
+      "location": "Brazil",
+      "description": "Systems analysis and software delivery. Add project context, technology stack and measurable achievements."
+    },
+    {
+      "company": "Senior Solution",
+      "role": "Java Developer",
+      "dates": "May 2016 – Sep 2018",
+      "location": "Rio de Janeiro, Brazil",
+      "description": "Java development experience. Add project context, frameworks, responsibilities and measurable achievements."
+    },
+    {
+      "company": "Tribunal Marítimo",
+      "role": "Technical Support Assistant",
+      "dates": "Oct 2012 – Oct 2014",
+      "location": "Brazil",
+      "description": "Technical support and software/IT support activities."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Centro Universitário IBMR",
+      "qualification": "MBA in Information Technology – Cyber Defense in Organizations",
+      "dates": "2020 – 2021"
+    },
+    {
+      "institution": "Centro Universitário UniCarioca",
+      "qualification": "Associate Degree in Systems Analysis and Development",
+      "dates": "2011 – 2014"
+    }
+  ],
+  "contact": {
+    "linkedin": "https://www.linkedin.com/in/cristian-jesus-47531421/",
+    "github": "https://github.com/icecissalc",
+    "email": "[ADD YOUR PROFESSIONAL EMAIL]"
+  },
+  "placeholders": [
+    "Add professional email address.",
+    "Confirm preferred English proficiency description.",
+    "Add exact project achievements, scale, performance improvements or delivery outcomes.",
+    "Add testing tools and practices (for example, JUnit, Mockito or integration testing) only if applicable.",
+    "Add certifications, if any."
+  ]
+}
